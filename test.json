@@ -1,4 +1,4 @@
-[{
+{{
     "attendanceDate": "2022-03-29",
     "code": "290175",
     "name": "Ray",
@@ -993,4 +993,4 @@
     "workTime": "0",
     "abnormalStatus": "3",
     "workOverTime": "0"
-}]
+}}
